@@ -1,0 +1,23 @@
+{
+  "name": "pool_stream",
+  "version": "0.0.1",
+  "description": "Pool Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/pool.git"
+  },
+  "keywords": [
+    "Pool",
+    "Stream"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacksonTian/pool/issues"
+  },
+  "homepage": "https://github.com/JacksonTian/pool"
+}
