@@ -14,6 +14,17 @@
     "Pool",
     "Stream"
   ],
+  "config": {
+    "blanket": {
+      "pattern": "pool_stream/lib",
+      "data-cover-flags": {
+        "debug": false
+      }
+    },
+    "travis-cov": {
+      "threshold": 98
+    }
+  },
   "author": "Jackson Tian",
   "license": "MIT",
   "bugs": {
