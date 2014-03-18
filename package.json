@@ -1,6 +1,6 @@
 {
   "name": "pool_stream",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pool Stream",
   "main": "index.js",
   "scripts": {
